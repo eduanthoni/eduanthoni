@@ -2,7 +2,7 @@
 
 <h3><i>Contato:</i></h3>
 
-<a href="https://www.linkedin.com/in/anthoni-santana-657b7316a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/anthoni-santana-657b7316a/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" target="_blank"></a>
 <a href="mailto:anthoniedu17@gmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" width="30" height="30"></a>
 <a href="mailto:anthoniedu@hotmail.com" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_outlook_logo_icon_145721.png" width="30" height="30"></a>
 <a href="https://www.instagram.com/anthoni.apenas" target="_blank"><img src="https://raw.githubusercontent.com/wle8300/instagram-logo/874dffb6fe7e064ae524959b47dae15d6ffcf224/logo.svg" width="30" height="30"/></a>
