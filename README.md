@@ -16,7 +16,7 @@
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20"/> <strong>HTML 5</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20"/> <strong>CSS 3</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> <strong>JavaScript</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> <strong>React Native</strong>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/> <strong>React JS</strong>
 </ul>
 
 <p> Outros conhecimentos: </p>
